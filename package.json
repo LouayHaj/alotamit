@@ -9,7 +9,7 @@
     "@sendgrid/mail": "^6.4.0",
     "assert-plus": "^1.0.0",
     "assertion-error": "^1.1.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "~1.18.2",
     "chai": "^4.2.0",
